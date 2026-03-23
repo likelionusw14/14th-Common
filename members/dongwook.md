@@ -15,4 +15,4 @@
 
 ## 링크 (선택)
 
-- GitHub: https://github.com/KDW123654
+- GitHub: https://github.com/kdw123654
